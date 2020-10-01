@@ -1,7 +1,3 @@
-<h1 align="center">Hello, I'm Alexander Bagatka</h1>
-
-<h3 align="center">Fullstack Intern</h3> <br>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bagatka" alt="bagatka" /> </p>
 
 ### 📊 Profile stats
